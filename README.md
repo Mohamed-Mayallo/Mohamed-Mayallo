@@ -1,5 +1,9 @@
 ## Hey 👋, I'm **Mohamed Mayallo**! A Self-Taught Developer and a Technical Writer
 
+<div style="width: 100%; margin-bottom: 30px">
+        <img src="https://mayallo.com/wp-content/uploads/2023/07/1649997695773-2.jpg" />
+</div>
+
 
 <div align="center">
 <a href="https://github.com/mohamed-mayallo" target="_blank">
@@ -38,14 +42,13 @@ I like to share what I learn with others so I started my blog one year ago. Blog
 I worked on-site and remotely but eventually, I loved the style of remote work because of the freedom it brings.​  
   
 
-<br/>  
-
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
-- ✍️ I regularly write articles on [My Blog](https://mayallo.com/blog/)  
+<div>
+    <div>
   
+- ✍️ I regularly write articles on [My Blog](https://mayallo.com/blog/)
 
 - 🏫 I’m currently learning React.js and Next.js  
   
@@ -53,19 +56,12 @@ I worked on-site and remotely but eventually, I loved the style of remote work b
 - 🗨️ Send me a message ➡ [here](https://mayallo.com/contact/)  
   
 
-- 📄 Download my CV ➡ [here](https://mayallo.com/wp-content/uploads/2023/07/Mohamed-Mayallo.pdf)  
+- 📄 Download my CV ➡ [here](https://mayallo.com/wp-content/uploads/2023/07/Mohamed-Mayallo.pdf)      </div>
+    
+    
+</div>
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://mayallo.com/wp-content/uploads/2023/07/1649997695773-2.jpg" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
@@ -96,7 +92,15 @@ I worked on-site and remotely but eventually, I loved the style of remote work b
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 </div>  
 
-<br/>  
+
+## My Featured Blog Posts
+
+- [4 Ways To Handle Asynchronous JavaScript](https://mayallo.com/asynchronous-javascript/)
+- [Strategy vs State vs Template Design Patterns](https://mayallo.com/strategy-state-template-design-patterns/)
+- [Isolation Levels In SQL Server With Examples](https://mayallo.com/isolation-levels-sql-server/)
+- [Open-Closed Principle: The Hard Parts](https://mayallo.com/solid-open-closed-principle/)
+- [Is Interface Segregation Principle Redundant?](https://mayallo.com/solid-interface-segregation-principle/)
+
 
 
 ## Github Stats  
@@ -109,9 +113,3 @@ I worked on-site and remotely but eventually, I loved the style of remote work b
 
 <br/>  
 
-  
-
-<br/>  
-
-
-<br />
