@@ -102,7 +102,9 @@ I worked on-site and remotely but eventually, I loved the style of remote work b
 ## Github Stats  
 
 
-<div align="center" style="width: 50%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-mayallo&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+<div align="center" style="width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-mayallo&hide_border=true&layout=compact" align="center" style="width: 100%" />
+</div>
 
 
 <br/>  
