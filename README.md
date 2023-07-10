@@ -1,7 +1,7 @@
 ## Hey 👋, I'm **Mohamed Mayallo**! A Self-Taught Developer and a Technical Writer
 
 <div align="center">
-  <img style="width: 50%;" src="https://mayallo.com/wp-content/uploads/2023/07/1649997695773-2.jpg" align="center" />
+  <img src="https://mayallo.com/wp-content/uploads/2023/07/1649997695773-2.jpg" align="center" />
 </div>
 
 <br />
