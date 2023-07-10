@@ -1,6 +1,6 @@
 ## Hey 👋, I'm **Mohamed Mayallo**! A Self-Taught Developer and a Technical Writer
 
-<div>
+<div style="margin-bottom: 30px">
     <img style="margin-bottom: 30px" src="https://mayallo.com/wp-content/uploads/2023/07/1649997695773-2.jpg" />
 </div>
 
