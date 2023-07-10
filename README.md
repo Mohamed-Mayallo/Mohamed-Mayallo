@@ -1,9 +1,10 @@
 ## Hey 👋, I'm **Mohamed Mayallo**! A Self-Taught Developer and a Technical Writer
 
-<div style="margin-bottom: 30px">
-    <img style="margin-bottom: 30px" src="https://mayallo.com/wp-content/uploads/2023/07/1649997695773-2.jpg" />
+<div align="center">
+  <img style="width: 50%;" src="https://mayallo.com/wp-content/uploads/2023/07/1649997695773-2.jpg" align="center" />
 </div>
 
+<br />
 
 <div align="center">
 <a href="https://github.com/mohamed-mayallo" target="_blank">
@@ -107,7 +108,7 @@ I worked on-site and remotely but eventually, I loved the style of remote work b
 
 
 <div align="center">
-  <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-mayallo&hide_border=true&layout=compact" align="center" style="width: 100%" />
+  <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-mayallo&hide_border=true&layout=compact" align="center" />
 </div>
 
 
