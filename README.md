@@ -51,13 +51,13 @@ I worked on-site and remotely but eventually, I loved the style of remote work b
   
 - ✍️ I regularly write articles on [My Blog](https://mayallo.com/blog/)
 
+- ✍ Also, I'm a contributor at [FreeCodeCamp](https://www.freecodecamp.org/news/author/mayallo/)
+
 - 🏫 I’m currently learning React.js and Next.js  
   
-
 - 🗨️ Send me a message ➡ [here](https://mayallo.com/contact/)  
   
-
-- 📄 Download my CV ➡ [here](https://mayallo.com/wp-content/uploads/2023/07/Mohamed-Mayallo.pdf)      </div>
+- 📄 Download my CV ➡ [here](https://mayallo.com/wp-content/uploads/2023/07/Mohamed-Mayallo.pdf)  </div>
     
     
 </div>
@@ -96,6 +96,7 @@ I worked on-site and remotely but eventually, I loved the style of remote work b
 
 ## My Featured Blog Posts
 
+- [How to Avoid the N+1 Query Problem in GraphQL and REST APIs [with Benchmarks]](https://www.freecodecamp.org/news/n-plus-one-query-problem/)
 - [4 Ways To Handle Asynchronous JavaScript](https://mayallo.com/asynchronous-javascript/)
 - [Strategy vs State vs Template Design Patterns](https://mayallo.com/strategy-state-template-design-patterns/)
 - [Isolation Levels In SQL Server With Examples](https://mayallo.com/isolation-levels-sql-server/)
